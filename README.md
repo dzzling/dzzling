@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi everyone!
+
+I'm a student in computer science and journalism at FU Berlin. Given my academic background I love opportunities to work on projects relating both to ![Media](https://img.shields.io/badge/all_things-media-green)&nbsp; and ![CS](https://img.shields.io/badge/all_things-computer_science-lightgrey
+)&nbsp;
+
+Feel free to stick around ☺️
 
 <!--
 **dzzling/dzzling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
